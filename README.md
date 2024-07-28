@@ -15,3 +15,4 @@ The WorkFroce Pro  is a simple command-line application built in Python for mana
 
 - Python 3.x installed on your system.
 - Basic knowledge of Python and command-line operations.
+
